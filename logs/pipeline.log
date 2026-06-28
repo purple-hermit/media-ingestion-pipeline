@@ -1,0 +1,4 @@
+[2026-06-28 22:20:26] [System] Media Ingestion Engine started. Monitoring ./input directory..
+[2026-06-28 22:22:18] [INFO] Starting processing for: VICTORY.mp4 | CPU Speed: 0.4 GHz
+[2026-06-28 22:22:23] [SUCCESS] Successfully transcoded to LOT-2026-06-28-222218_VICTORY.mp4 | CPU Speed: 3.4 GHz
+[2026-06-28 22:22:23] [INFO] Cleaned up source file from ingest pool: VICTORY.mp4
